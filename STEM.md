@@ -1,6 +1,7 @@
 ---
 title: Matt Miller
 ---
+[Home](statmiller.github.io)
 # Measurement Error in Atom Column Locations
 ## The Gist
 * Scanning Transmission Electron Microscopy (STEM) allows us to image materials at the atomic scale.
