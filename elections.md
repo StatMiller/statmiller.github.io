@@ -1,7 +1,7 @@
 ---
 title: Matt Miller
 ---
-[home](statmiller.github.io)
+[Home](statmiller.github.io)
 # Predicting NC House Election Results 
 
 ## The Gist
