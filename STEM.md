@@ -1,4 +1,7 @@
-## Measurement Error in Atom Column Locations
+---
+title: Matt Miller
+---
+# Measurement Error in Atom Column Locations
 ## The Gist
 * Scanning Transmission Electron Microscopy (STEM) allows us to image materials at the atomic scale.
 * Each white circle in the below image represents a column of atoms in a crystal structure. 
