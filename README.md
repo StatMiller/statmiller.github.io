@@ -1,4 +1,4 @@
-## Matt Miller
+### Matt Miller
 ### PhD Graduate Student
 ### Department of Statistics
 ### NC State University
