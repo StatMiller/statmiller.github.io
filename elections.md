@@ -1,5 +1,5 @@
 ---
-title: [Matt Miller](statmiller.github.io)
+title: Matt Miller
 ---
 [home](statmiller.github.io)
 # Predicting NC House Election Results 
