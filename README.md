@@ -1,7 +1,1 @@
-### Matt Miller
-### PhD Graduate Student
-### Department of Statistics
-### NC State University
-
-Welcome to my page. Here are some links to my projects:
-
+Matt Miller is a PhD student in the [Department of Statistics](https://www.stat.ncsu.edu/) at North Carolina State University and is advised by [Dr. Brian Reich](https://www4.stat.ncsu.edu/~reich/index.html). He is intersted in applying spatial and Bayesian statisics to a variety of fields including materials science and political science. This website is a space to share code, publications, and ideas. 
