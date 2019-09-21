@@ -1,3 +1,2 @@
-theme: jekyll-theme-tactile
-title: Matt Miller
-description: A home for statistics-related projects
+name: Matt Miller
+markdown: kramdown
